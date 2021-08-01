@@ -1,3 +1,5 @@
+**Please refer to Pattern Patent.pptx for my presentation of project 1. The topic USPTO patents is consistent across my projects**.
+
 # projectdemo1
 
 ## Instructions
@@ -11,15 +13,20 @@ https://www.uspto.gov/learning-and-resources/electronic-data-products/patent-exa
 https://www.uspto.gov/learning-and-resources/electronic-data-products/patent-claims-research-dataset
 
 Areas to study: 
-•	“application_data”: calculate period between filing_date and patent_issue_date to see on average long it takes to issue a patent for different categories. 
-        Focus on appl_status_desc and calculate numeric values under “Patented Case”. Study which uspc_class has the most filings and highest patented rate. 
+â€¢	â€œapplication_dataâ€: calculate period between filing_date and patent_issue_date to see on average long it takes to issue a patent for different categories. 
+        Focus on appl_status_desc and calculate numeric values under â€œPatented Caseâ€. Study which uspc_class has the most filings and highest patented rate. 
         Study small_entity_indicator to see if there is any implications on small entrepreneurships. 
-•	“all_inventors”: plot the inventors' geolocation distributions including regions, states and cities.
-•	Merge “application_data” and “all_inventors”: study the inventors distribution, create heatmap based on number of applications each state, 
+        
+â€¢	â€œall_inventorsâ€: plot the inventors' geolocation distributions including regions, states and cities.
+
+â€¢	Merge â€œapplication_dataâ€ and â€œall_inventorsâ€: study the inventors distribution, create heatmap based on number of applications each state, 
         and use census API to see if there is correlation between state population, poverty and inventors, etc. 
-•	“attorney_agent”: study which attorneys has the most filings and which are the most successful in patent filings. 
-•	"patent_claims_stats”: study claim numbers on each patented case, focus on word counts, character counts, key words count, etc. 
-•	Merge “application_data” and “patent_claims_stats”: focus on the claims trend for patented cases. Find out common claim features in patented cases. 
+        
+â€¢	â€œattorney_agentâ€: study which attorneys has the most filings and which are the most successful in patent filings. 
+
+â€¢	"patent_claims_statsâ€: study claim numbers on each patented case, focus on word counts, character counts, key words count, etc. 
+
+â€¢	Merge â€œapplication_dataâ€ and â€œpatent_claims_statsâ€: focus on the claims trend for patented cases. Find out common claim features in patented cases. 
 
 Major findings
 
