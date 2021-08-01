@@ -13,6 +13,7 @@ https://www.uspto.gov/learning-and-resources/electronic-data-products/patent-exa
 https://www.uspto.gov/learning-and-resources/electronic-data-products/patent-claims-research-dataset
 
 Areas to study: 
+
 •	“application_data”: calculate period between filing_date and patent_issue_date to see on average long it takes to issue a patent for different categories. 
         Focus on appl_status_desc and calculate numeric values under “Patented Case”. Study which uspc_class has the most filings and highest patented rate. 
         Study small_entity_indicator to see if there is any implications on small entrepreneurships. 
@@ -35,4 +36,6 @@ Lessons and Learn
 Make presentation slides
 
 Run "application_data.ipynb" first.
+
+© Liang Gong. Confidential and Proprietary. All Rights Reserved.
 
