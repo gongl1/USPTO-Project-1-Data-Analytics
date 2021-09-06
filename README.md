@@ -1,4 +1,4 @@
-**Please refer to Pattern Patent.pptx for my presentation of project 1. The topic USPTO patents is consistent across my projects**.
+**Please refer to Pattern Patent.pptx for my presentation of project 1 (https://github.com/gongl1/projectdemo1/blob/main/Pattern%20Patent.pptx). The topic USPTO patents is consistent across my projects**.
 
 # projectdemo1
 
@@ -36,6 +36,11 @@ Lessons and Learn
 Make presentation slides
 
 Run "application_data.ipynb" first.
+
+
+- - -
+
+![1-Logo](DATA1.PNG)
 
 - - -
 
