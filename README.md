@@ -1,5 +1,11 @@
 **Please refer to Pattern Patent.pptx for my presentation of project 1 (https://github.com/gongl1/projectdemo1/blob/main/Pattern%20Patent.pptx). The topic USPTO patents is consistent across my project portfolio**.
 
+Steps to access my presentation for projectdemo1_Data:
+
+Please refer to Pattern Patent_ML.pptx for my presentation of Pattern Patent.pptx for my presentation of project (https://github.com/gongl1/projectdemo1/blob/main/Pattern%20Patent.pptx)..
+Click on view raw to download the presentation.
+This project is about data analysis. The topic USPTO patents is consistent across my project portfolio.
+
 # projectdemo1
 
 ## Instructions
